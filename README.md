@@ -3,7 +3,7 @@
 
 ### Se tiene que hallar respuestas justificadas mediante los datos dados de qué combustible es más recomendable para la compañía.
 
-![portada](https://github.com/as-Solo/Proyecto_Ubicacion/blob/main/img/portada_Readme.jpg)
+![portada](https://github.com/as-Solo/reto_data/blob/main/img/portada_Cobify.jpg)
 
 ### Contenido
 
