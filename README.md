@@ -1,7 +1,7 @@
 <a name='inicio'></a>
 # COBIFY
 
-### Se tiene que hallar respuestas justificadas mediante los datos dados de qué combustible es más recomendable para la compañía.
+### Se tienen que hallar respuestas justificadas mediante los datos dados de qué combustible es más recomendable para la compañía.
 
 ![portada](https://github.com/as-Solo/reto_data/blob/main/img/portada_Cobify.jpg)
 
